@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  cloud_firestore: ^0.12.5+2
-  mockito: ^4.0.0
+  cloud_firestore: ^0.13.0+1
+  mockito: 4.1.1
   test: ^1.5.3
 
 dev_dependencies:
